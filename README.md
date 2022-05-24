@@ -1,5 +1,4 @@
-Header
-
+[![amoriah's 42 stats](https://badge42.vercel.app/api/v2/cl3kc398b000609l7issdicyw/stats?cursusId=21&coalitionId=99)](https://github.com/JaeSeoKim/badge42)
 About me
 
 Languages and Tools
