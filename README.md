@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  --> 
  
- - [About me](https://amoriah.github.io/rsschool-cv/cv)
+ [About me](https://amoriah.github.io/rsschool-cv/cv)
  
 [![amoriah's 42 stats](https://badge42.vercel.app/api/v2/cl3kc398b000609l7issdicyw/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
