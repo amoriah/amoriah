@@ -17,5 +17,5 @@ Here are some ideas to get you started:
  --> 
  
  [About me](https://amoriah.github.io/rsschool-cv/)
- 
+ [![codewars status](https://www.codewars.com/users/rsschool_22038a5111579cae/badges/large)]
 [![amoriah's 42 stats](https://badge42.vercel.app/api/v2/cl3kc398b000609l7issdicyw/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
