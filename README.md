@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  --> 
  
- [About me](https://amoriah.github.io/rsschool-cv/)
+ [ABOUT ME](https://amoriah.github.io/rsschool-cv/)
  
  ![codewars status](https://www.codewars.com/users/rsschool_22038a5111579cae/badges/large)
  
