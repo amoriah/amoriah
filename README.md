@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  --> 
+ <!-- [ABOUT ME](https://amoriah.github.io/rsschool-cv/) -->
  
- [ABOUT ME](https://amoriah.github.io/rsschool-cv/)
+
  
  ![codewars status](https://www.codewars.com/users/yonoyko/badges/large)
  
